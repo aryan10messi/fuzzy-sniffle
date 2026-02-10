@@ -1,17 +1,23 @@
 {
-  "last_check": "2026-02-10T05:57:18.646402",
+  "last_check": "2026-02-10T17:02:21.827020",
   "summary": {
-    "accepted": 5,
-    "rejected": 3,
-    "waitlisted": 1,
-    "withdrawn": 0
+    "accepted": 91,
+    "rejected": 38,
+    "waitlisted": 87,
+    "withdrawn": 4
   },
   "decisions": {
     "University of California\u2014Berkeley|accepted|2026-02-09": {
       "school_name": "University of California\u2014Berkeley",
       "result": "accepted",
       "date": "2026-02-09",
-      "count": 37
+      "count": 38
+    },
+    "University of California\u2014Berkeley|pending|2026-02-09": {
+      "school_name": "University of California\u2014Berkeley",
+      "result": "pending",
+      "date": "2026-02-09",
+      "count": 1
     },
     "University of California\u2014Los Angeles|rejected|2026-02-08": {
       "school_name": "University of California\u2014Los Angeles",
