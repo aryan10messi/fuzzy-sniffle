@@ -6,12 +6,14 @@
 # Use the EXACT names as they appear on https://lsd.law/recent-decisions
 # (match the dropdown list on the site).
 SCHOOLS = [
-    "Harvard University",
-    "Columbia University",
-    "Stanford University",
-    "Yale University",
-    "University of Chicago",
+    "University of California\u2014Berkeley",
+    "Georgetown University",
+    "George Washington University",
+    "University of California\u2014Los Angeles",
+    "University of California\u2014Irvine",
     # Add or remove schools as needed
+    # NOTE: UC schools use em-dashes (\u2014), not hyphens (-).
+    # Check the dropdown at https://lsd.law/recent-decisions for exact names.
 ]
 
 # ntfy.sh topic — your friend subscribes to this in the ntfy app.

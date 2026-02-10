@@ -2,10 +2,12 @@ name: Check LSD Decisions
 
 on:
   schedule:
-    # Every 15 minutes, 9 AM – 6 PM EST (14:00–23:00 UTC), Monday–Friday.
-    # GitHub Actions cron doesn't support hour ranges directly, so we use
-    # multiple entries to cover the window. Adjust if needed.
-    - cron: "*/15 14-23 * * 1-5"
+    # Every 30 minutes, 8:30 AM – 8 PM PST (UTC-8), Monday–Friday.
+    # PST spans midnight UTC, so we need two cron entries:
+    #   16:00–23:30 UTC = 8:00 AM – 3:30 PM PST (Mon–Fri)
+    #   00:00–04:00 UTC = 4:00 PM – 8:00 PM PST (Mon–Fri PST = Tue–Sat UTC)
+    - cron: "*/30 16-23 * * 1-5"
+    - cron: "*/30 0-4 * * 2-6"
 
   # Allow manual triggering for testing from the Actions tab.
   workflow_dispatch: {}
