@@ -1,12 +1,24 @@
 {
-  "last_check": "2026-02-10T19:59:03.622581",
+  "last_check": "2026-02-10T20:55:56.942109",
   "summary": {
-    "accepted": 161,
-    "rejected": 97,
-    "waitlisted": 163,
-    "withdrawn": 10
+    "accepted": 183,
+    "rejected": 123,
+    "waitlisted": 196,
+    "withdrawn": 15
   },
   "decisions": {
+    "George Washington University|pending|2026-02-10": {
+      "school_name": "George Washington University",
+      "result": "pending",
+      "date": "2026-02-10",
+      "count": 1
+    },
+    "George Washington University|rejected|2026-02-10": {
+      "school_name": "George Washington University",
+      "result": "rejected",
+      "date": "2026-02-10",
+      "count": 4
+    },
     "University of California\u2014Los Angeles|accepted|2026-02-10": {
       "school_name": "University of California\u2014Los Angeles",
       "result": "accepted",
@@ -18,6 +30,12 @@
       "result": "pending",
       "date": "2026-02-10",
       "count": 1
+    },
+    "University of California\u2014Los Angeles|waitlisted|2026-02-10": {
+      "school_name": "University of California\u2014Los Angeles",
+      "result": "waitlisted",
+      "date": "2026-02-10",
+      "count": 6
     },
     "University of California\u2014Berkeley|accepted|2026-02-09": {
       "school_name": "University of California\u2014Berkeley",
@@ -84,24 +102,6 @@
       "result": "rejected",
       "date": "2026-02-06",
       "count": 1
-    },
-    "University of California\u2014Los Angeles|rejected|2026-02-05": {
-      "school_name": "University of California\u2014Los Angeles",
-      "result": "rejected",
-      "date": "2026-02-05",
-      "count": 1
-    },
-    "Georgetown University|pending|2026-02-05": {
-      "school_name": "Georgetown University",
-      "result": "pending",
-      "date": "2026-02-05",
-      "count": 1
-    },
-    "Georgetown University|waitlisted|2026-02-05": {
-      "school_name": "Georgetown University",
-      "result": "waitlisted",
-      "date": "2026-02-05",
-      "count": 42
     }
   }
 }
