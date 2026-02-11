@@ -1,9 +1,9 @@
 {
-  "last_check": "2026-02-11T22:32:35.687988",
+  "last_check": "2026-02-11T23:31:53.513179",
   "summary": {
-    "accepted": 319,
-    "rejected": 562,
-    "waitlisted": 572,
+    "accepted": 330,
+    "rejected": 582,
+    "waitlisted": 606,
     "withdrawn": 38
   },
   "decisions": {
@@ -23,19 +23,19 @@
       "school_name": "University of California\u2014Los Angeles",
       "result": "rejected",
       "date": "2026-02-11",
-      "count": 17
+      "count": 18
     },
     "University of California\u2014Los Angeles|waitlisted|2026-02-11": {
       "school_name": "University of California\u2014Los Angeles",
       "result": "waitlisted",
       "date": "2026-02-11",
-      "count": 7
+      "count": 8
     },
     "Georgetown University|accepted|2026-02-11": {
       "school_name": "Georgetown University",
       "result": "accepted",
       "date": "2026-02-11",
-      "count": 13
+      "count": 18
     },
     "University of California\u2014Berkeley|accepted|2026-02-11": {
       "school_name": "University of California\u2014Berkeley",
@@ -77,7 +77,7 @@
       "school_name": "University of California\u2014Los Angeles",
       "result": "rejected",
       "date": "2026-02-10",
-      "count": 4
+      "count": 5
     },
     "University of California\u2014Los Angeles|waitlisted|2026-02-10": {
       "school_name": "University of California\u2014Los Angeles",
@@ -125,24 +125,6 @@
       "school_name": "University of California\u2014Berkeley",
       "result": "rejected",
       "date": "2026-02-07",
-      "count": 1
-    },
-    "University of California\u2014Los Angeles|accepted|2026-02-06": {
-      "school_name": "University of California\u2014Los Angeles",
-      "result": "accepted",
-      "date": "2026-02-06",
-      "count": 1
-    },
-    "University of California\u2014Los Angeles|pending|2026-02-06": {
-      "school_name": "University of California\u2014Los Angeles",
-      "result": "pending",
-      "date": "2026-02-06",
-      "count": 1
-    },
-    "University of California\u2014Los Angeles|waitlisted|2026-02-06": {
-      "school_name": "University of California\u2014Los Angeles",
-      "result": "waitlisted",
-      "date": "2026-02-06",
       "count": 1
     }
   }
