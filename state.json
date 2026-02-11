@@ -1,10 +1,10 @@
 {
-  "last_check": "2026-02-11T21:34:03.337755",
+  "last_check": "2026-02-11T22:32:35.687988",
   "summary": {
-    "accepted": 280,
-    "rejected": 522,
-    "waitlisted": 467,
-    "withdrawn": 32
+    "accepted": 319,
+    "rejected": 562,
+    "waitlisted": 572,
+    "withdrawn": 38
   },
   "decisions": {
     "George Washington University|accepted|2026-02-11": {
@@ -23,13 +23,19 @@
       "school_name": "University of California\u2014Los Angeles",
       "result": "rejected",
       "date": "2026-02-11",
-      "count": 7
+      "count": 17
     },
     "University of California\u2014Los Angeles|waitlisted|2026-02-11": {
       "school_name": "University of California\u2014Los Angeles",
       "result": "waitlisted",
       "date": "2026-02-11",
-      "count": 5
+      "count": 7
+    },
+    "Georgetown University|accepted|2026-02-11": {
+      "school_name": "Georgetown University",
+      "result": "accepted",
+      "date": "2026-02-11",
+      "count": 13
     },
     "University of California\u2014Berkeley|accepted|2026-02-11": {
       "school_name": "University of California\u2014Berkeley",
@@ -77,7 +83,7 @@
       "school_name": "University of California\u2014Los Angeles",
       "result": "waitlisted",
       "date": "2026-02-10",
-      "count": 31
+      "count": 32
     },
     "University of California\u2014Irvine|accepted|2026-02-10": {
       "school_name": "University of California\u2014Irvine",
@@ -136,18 +142,6 @@
     "University of California\u2014Los Angeles|waitlisted|2026-02-06": {
       "school_name": "University of California\u2014Los Angeles",
       "result": "waitlisted",
-      "date": "2026-02-06",
-      "count": 1
-    },
-    "Georgetown University|accepted|2026-02-06": {
-      "school_name": "Georgetown University",
-      "result": "accepted",
-      "date": "2026-02-06",
-      "count": 1
-    },
-    "Georgetown University|rejected|2026-02-06": {
-      "school_name": "Georgetown University",
-      "result": "rejected",
       "date": "2026-02-06",
       "count": 1
     }
