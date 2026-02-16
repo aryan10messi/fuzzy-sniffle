@@ -1,10 +1,10 @@
 {
-  "last_check": "2026-02-16T19:32:20.945978",
+  "last_check": "2026-02-16T20:29:50.892582",
   "summary": {
-    "accepted": 83,
-    "rejected": 105,
-    "waitlisted": 72,
-    "withdrawn": 4
+    "accepted": 95,
+    "rejected": 113,
+    "waitlisted": 89,
+    "withdrawn": 5
   },
   "decisions": {
     "University of California\u2014Los Angeles|rejected|2026-02-16": {
