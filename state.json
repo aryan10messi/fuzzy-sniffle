@@ -1,10 +1,10 @@
 {
-  "last_check": "2026-02-18T23:29:21.800790",
+  "last_check": "2026-02-18T23:56:14.318122",
   "summary": {
-    "accepted": 277,
-    "rejected": 209,
-    "waitlisted": 389,
-    "withdrawn": 27
+    "accepted": 283,
+    "rejected": 214,
+    "waitlisted": 401,
+    "withdrawn": 28
   },
   "decisions": {
     "George Washington University|pending|2026-02-18": {
