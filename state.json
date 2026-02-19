@@ -1,10 +1,10 @@
 {
-  "last_check": "2026-02-19T20:32:06.657490",
+  "last_check": "2026-02-19T21:32:39.512979",
   "summary": {
-    "accepted": 163,
-    "rejected": 160,
-    "waitlisted": 292,
-    "withdrawn": 40
+    "accepted": 189,
+    "rejected": 179,
+    "waitlisted": 320,
+    "withdrawn": 42
   },
   "decisions": {
     "George Washington University|accepted|2026-02-19": {
@@ -119,12 +119,6 @@
       "school_name": "Georgetown University",
       "result": "rejected",
       "date": "2026-02-16",
-      "count": 2
-    },
-    "George Washington University|accepted|2026-02-15": {
-      "school_name": "George Washington University",
-      "result": "accepted",
-      "date": "2026-02-15",
       "count": 2
     }
   }
