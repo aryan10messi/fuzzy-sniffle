@@ -1,35 +1,59 @@
 {
-  "last_check": "2026-02-21T05:03:30.766847",
+  "last_check": "2026-02-23T18:02:19.342560",
   "summary": {
-    "accepted": 260,
-    "rejected": 227,
-    "waitlisted": 306,
-    "withdrawn": 15
+    "accepted": 63,
+    "rejected": 41,
+    "waitlisted": 39,
+    "withdrawn": 2
   },
   "decisions": {
+    "University of California\u2014Los Angeles|accepted|2026-02-23": {
+      "school_name": "University of California\u2014Los Angeles",
+      "result": "accepted",
+      "date": "2026-02-23",
+      "count": 1
+    },
+    "George Washington University|accepted|2026-02-22": {
+      "school_name": "George Washington University",
+      "result": "accepted",
+      "date": "2026-02-22",
+      "count": 1
+    },
+    "Georgetown University|accepted|2026-02-21": {
+      "school_name": "Georgetown University",
+      "result": "accepted",
+      "date": "2026-02-21",
+      "count": 1
+    },
     "Georgetown University|rejected|2026-02-21": {
       "school_name": "Georgetown University",
       "result": "rejected",
       "date": "2026-02-21",
       "count": 1
     },
+    "Georgetown University|waitlisted|2026-02-21": {
+      "school_name": "Georgetown University",
+      "result": "waitlisted",
+      "date": "2026-02-21",
+      "count": 2
+    },
     "Georgetown University|accepted|2026-02-20": {
       "school_name": "Georgetown University",
       "result": "accepted",
       "date": "2026-02-20",
-      "count": 21
+      "count": 23
     },
     "Georgetown University|rejected|2026-02-20": {
       "school_name": "Georgetown University",
       "result": "rejected",
       "date": "2026-02-20",
-      "count": 26
+      "count": 30
     },
     "Georgetown University|waitlisted|2026-02-20": {
       "school_name": "Georgetown University",
       "result": "waitlisted",
       "date": "2026-02-20",
-      "count": 29
+      "count": 38
     },
     "University of California\u2014Irvine|accepted|2026-02-20": {
       "school_name": "University of California\u2014Irvine",
@@ -107,49 +131,7 @@
       "school_name": "University of California\u2014Berkeley",
       "result": "accepted",
       "date": "2026-02-18",
-      "count": 3
-    },
-    "University of California\u2014Irvine|accepted|2026-02-18": {
-      "school_name": "University of California\u2014Irvine",
-      "result": "accepted",
-      "date": "2026-02-18",
-      "count": 14
-    },
-    "George Washington University|accepted|2026-02-17": {
-      "school_name": "George Washington University",
-      "result": "accepted",
-      "date": "2026-02-17",
-      "count": 1
-    },
-    "George Washington University|pending|2026-02-17": {
-      "school_name": "George Washington University",
-      "result": "pending",
-      "date": "2026-02-17",
-      "count": 1
-    },
-    "George Washington University|rejected|2026-02-17": {
-      "school_name": "George Washington University",
-      "result": "rejected",
-      "date": "2026-02-17",
-      "count": 2
-    },
-    "University of California\u2014Los Angeles|waitlisted|2026-02-17": {
-      "school_name": "University of California\u2014Los Angeles",
-      "result": "waitlisted",
-      "date": "2026-02-17",
-      "count": 1
-    },
-    "Georgetown University|accepted|2026-02-17": {
-      "school_name": "Georgetown University",
-      "result": "accepted",
-      "date": "2026-02-17",
-      "count": 1
-    },
-    "Georgetown University|rejected|2026-02-17": {
-      "school_name": "Georgetown University",
-      "result": "rejected",
-      "date": "2026-02-17",
-      "count": 1
+      "count": 4
     }
   }
 }
