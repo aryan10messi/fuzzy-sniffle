@@ -1,10 +1,10 @@
 {
-  "last_check": "2026-02-24T17:06:01.353802",
+  "last_check": "2026-02-24T18:31:13.370989",
   "summary": {
-    "accepted": 74,
-    "rejected": 44,
-    "waitlisted": 50,
-    "withdrawn": 8
+    "accepted": 102,
+    "rejected": 67,
+    "waitlisted": 67,
+    "withdrawn": 9
   },
   "decisions": {}
 }
